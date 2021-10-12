@@ -1,6 +1,6 @@
 using System;
 
-namespace _04_dice
+namespace cse210_student_csharp_dice
 {
     /// <summary>
     /// Like a director in a play, this class is responsible for the game, the script,
