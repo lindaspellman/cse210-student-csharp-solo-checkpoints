@@ -111,6 +111,7 @@ namespace _08_rfk.Casting
             return $"Position: ({_position.GetX()}, {_position.GetY()}), Velocity({_velocity.GetX()}, {_velocity.GetY()})";
         }
 
+
     }
 
 }
